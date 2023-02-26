@@ -1,0 +1,17 @@
+body {background-color: bisque;
+    font-family: Sego, Verdana, sans-serif;}
+
+header {background-color:brown;
+}
+
+h1{color:deepskyblue;}
+h2{color:darkcyan}
+nav > ul {line-height: 2em;
+    list-style-type: none;
+    padding-left:5px;}
+
+section {background-color:black;
+        width: 75%;
+        font-size: 1.0em;}
+
+footer {background-color: chartreuse;}
